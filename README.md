@@ -3,7 +3,7 @@
 <h3 align="center">I'm a Web Developer and Coder.</h3>
 ---
 <p align="center">
- <img src="https://github.com/niteshsen/niteshsen/blob/65bb08a57ba22d1967fef79536bd7e2de32e299e/Intro%20Card%20oct.%202022.png" width="800" height="350" title="Intro Card" alt="Intro Card">
+ <img src="https://github.com/niteshsen/niteshsen/blob/65bb08a57ba22d1967fef79536bd7e2de32e299e/Intro%20Card%20oct.%202022.png" width="1000" height="350" title="Intro Card" alt="Intro Card">
 </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ckchandan536" alt="ckchandan536" /></a> </p>
