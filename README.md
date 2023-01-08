@@ -42,7 +42,7 @@
 ### 🏷️ Showcase:
   Some of my tiny projects, which you may like to visit:
   <br><br>
-  [![Quiz App]      (https://img.shields.io/badge/6-Quiz_App-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/quizApp/)
+  [![Quiz App](https://img.shields.io/badge/6-Quiz_App-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/quizApp/)
   [![React_live_app](https://img.shields.io/badge/6-React_live_project-2ea44f?style=for-the-badge&color=red)](https://reactlive-website.vercel.app/)
   [![Nitesh_Keep_React](https://img.shields.io/badge/6-Google_Keep_React-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/NiteshKeep/)
   [![Airbnb Clone](https://img.shields.io/badge/9-Airbnb_Clone_NodeJS-2ea44f?style=for-the-badge&color=F24481)](https://air-bnb-clone-main-niteshsen.vercel.app/)
