@@ -53,7 +53,7 @@
   [![Simon_game](https://img.shields.io/badge/6-SimonGame-2ea44f?style=for-the-badge&color=purple)](https://niteshsen.github.io/simongame/)
   [![Simon_game](https://img.shields.io/badge/6-drum-kit2ea44f?style=for-the-badge&color=yellow)](https://niteshsen.github.io/drumkit/)
   [![Simon_game](https://img.shields.io/badge/6-Tindog-2ea44f?style=for-the-badge&color=orange)](https://niteshsen.github.io/Tindog/)
-  [![React Live Gallery](https://img.shields.io/badge/9-React_live_gallery2ea44f?style=for-the-badge&color=yellow)](https://niteshsen.github.io/React-image-gallery/)
+  [![React Live Gallery](https://img.shields.io/badge/9-React_live_gallery-2ea44f?style=for-the-badge&color=yellow)](https://niteshsen.github.io/React-image-gallery/)
 
 
 
