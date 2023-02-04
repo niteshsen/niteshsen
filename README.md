@@ -42,6 +42,7 @@
 ### 🏷️ Showcase:
   Some of my tiny projects, which you may like to visit:
   <br><br>
+  [![Quora App](https://img.shields.io/badge/9-quora_App-2ea44f?style=for-the-badge&color=red)](https://gleeful-pudding-d14d34.netlify.app/)
   [![Quiz App](https://img.shields.io/badge/6-Quiz_App-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/quizApp/)
   [![React_live_app](https://img.shields.io/badge/6-React_live_project-2ea44f?style=for-the-badge&color=red)](https://reactlive-website.vercel.app/)
   [![ToDo-React-List](https://img.shields.io/badge/6-ToDo_React_List-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/ToDo-React-Lsit/)
