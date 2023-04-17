@@ -34,7 +34,7 @@
 <a href="https://leetcode.com/nitesh_sen123/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="ckchandan536" height="30" width="40" /></a>
 </p>
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=Ckchandan536">
+    <img src="https://komarev.com/ghpvc/?username=niteshsen">
 </a>
 <a href="https://github.com/niteshsen?tab=followers"><img src="https://img.shields.io/github/followers/Ckchandan536?label=Followers&style=social" alt="GitHub Badge"></a>
 
@@ -43,6 +43,7 @@
   Some of my tiny projects, which you may like to visit:
   <br><br>
   [![Quora App](https://img.shields.io/badge/9-quora_App-2ea44f?style=for-the-badge&color=red)](https://gleeful-pudding-d14d34.netlify.app/)
+  [![MernShoppingCart](https://img.shields.io/badge/9-quora_App-2ea44f?style=for-the-badge&color=blue)](https://gleeful-pudding-d14d34.netlify.app/)
   [![Quiz App](https://img.shields.io/badge/6-Quiz_App-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/quizApp/)
   [![React_live_app](https://img.shields.io/badge/6-React_live_project-2ea44f?style=for-the-badge&color=red)](https://reactlive-website.vercel.app/)
   [![ToDo-React-List](https://img.shields.io/badge/6-ToDo_React_List-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/ToDo-React-Lsit/)
