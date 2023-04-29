@@ -51,7 +51,7 @@
   [![Airbnb Clone](https://img.shields.io/badge/9-Airbnb_Clone_NodeJS-2ea44f?style=for-the-badge&color=F24481)](https://air-bnb-clone-main-niteshsen.vercel.app/)
   [![Llinkedin Clone](https://img.shields.io/badge/8-Linkedin_clone_CSS-2ea44f?style=for-the-badge&color=002499)](https://niteshsen.github.io/linkding-profile/)
   [![WeatherApiClone](https://img.shields.io/badge/5-WeatherAPi-2ea44f?style=for-the-badge&color=blue)](https://herokuwebhoisting-production.up.railway.app/)
-  [![Tweet quotes from your own web page](https://img.shields.io/badge/7-Quotes-2ea44f?style=for-the-badge&color=yellow)](https://niteshsen.github.io/quots-apk/)
+  [![Tweet quotes from your own web page](https://img.shields.io/badge/7-Quotes-2ea44f?style=for-the-badge&color=yellow)](https://niteshsen.github.io/Quotes_Random/)
   [![Simon_game](https://img.shields.io/badge/6-SimonGame-2ea44f?style=for-the-badge&color=purple)](https://niteshsen.github.io/siMon_Game/)
   [![Drum_kit](https://img.shields.io/badge/6-drum-kit2ea44f?style=for-the-badge&color=yellow)]( https://niteshsen.github.io/Drum_kit//)
   [![Tindog_kit](https://img.shields.io/badge/6-Tindog-2ea44f?style=for-the-badge&color=orange)](https://niteshsen.github.io/Tindog/)
