@@ -42,6 +42,7 @@
 ### 🏷️ Showcase:
   Some of my tiny projects, which you may like to visit:
   <br><br>
+  [![Llinkedin Clone](https://img.shields.io/badge/8-Linkedin_clone_CSS-2ea44f?style=for-the-badge&color=002499)](https://niteshsen.github.io/Linkdin_clone/)
   [![Quora App](https://img.shields.io/badge/9-quora_App-2ea44f?style=for-the-badge&color=red)](https://gleeful-pudding-d14d34.netlify.app/)
   [![MernShoppingCart](https://img.shields.io/badge/12-Mern_App-2ea44f?style=for-the-badge&color=blue)](https://fabulous-brigadeiros-f6a5ea.netlify.app/)
   [![Quiz App](https://img.shields.io/badge/6-Quiz_App-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/quizApp/)
@@ -49,7 +50,6 @@
   [![ToDo-React-List](https://img.shields.io/badge/6-ToDo_React_List-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/ToDo-React-Lsit/)
   [![Nitesh_Keep_React](https://img.shields.io/badge/6-Google_Keep_React-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/NiteshKeep/)
   [![Airbnb Clone](https://img.shields.io/badge/9-Airbnb_Clone_NodeJS-2ea44f?style=for-the-badge&color=F24481)](https://air-bnb-clone-main-niteshsen.vercel.app/)
-  [![Llinkedin Clone](https://img.shields.io/badge/8-Linkedin_clone_CSS-2ea44f?style=for-the-badge&color=002499)](https://niteshsen.github.io/Linkdin_clone/)
   [![WeatherApiClone](https://img.shields.io/badge/5-WeatherAPi-2ea44f?style=for-the-badge&color=blue)](https://herokuwebhoisting-production.up.railway.app/)
   [![Tweet quotes from your own web page](https://img.shields.io/badge/7-Quotes-2ea44f?style=for-the-badge&color=yellow)](https://niteshsen.github.io/Quotes_Random/)
   [![Simon_game](https://img.shields.io/badge/6-SimonGame-2ea44f?style=for-the-badge&color=purple)](https://niteshsen.github.io/siMon_Game/)
