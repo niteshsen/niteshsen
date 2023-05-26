@@ -1,10 +1,8 @@
-
+![[SVG Banners](https://svg-banners.vercel.app/api?type=typeWriter&text1=Hi%20%F0%9F%91%8B,%20I%27m%20Nitesh&nbsp;Sen,%20welcome%20to%20my%20GitHub%20Profile&height=100&width=999)](https://github.com/niteshsen/svg-banners)
 
 <h3 align="center">I'm a Web Developer and Code Lover.</h3>
 ---
-<p align="center">
- <img src="https://github.com/niteshsen/niteshsen/blob/65bb08a57ba22d1967fef79536bd7e2de32e299e/Intro%20Card%20oct.%202022.png" width="1000" height="350" title="Intro Card" alt="Intro Card">
-</p>
+
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ckchandan536" alt="niteshsen" /></a> </p>
 
