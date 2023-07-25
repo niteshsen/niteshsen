@@ -42,7 +42,7 @@
   <br><br>
   [![Llinkedin Clone](https://img.shields.io/badge/8-Linkedin_clone_CSS-2ea44f?style=for-the-badge&color=002499)](https://niteshsen.github.io/Linkdin_clone/)
   [![Quora App](https://img.shields.io/badge/9-quora_App-2ea44f?style=for-the-badge&color=red)](https://gleeful-pudding-d14d34.netlify.app/)
-  [![MernShoppingCart](https://img.shields.io/badge/12-Mern_App-2ea44f?style=for-the-badge&color=blue)](https://fabulous-brigadeiros-f6a5ea.netlify.app/)
+  [![MernShoppingCart](https://img.shields.io/badge/12-Mern_App-2ea44f?style=for-the-badge&color=blue)](https://64c00d1099d585050cdaa7f0--poetic-torrone-7964e7.netlify.app/)
   [![Quiz App](https://img.shields.io/badge/6-Quiz_App-2ea44f?style=for-the-badge&color=red)](https://niteshsen.github.io/quizApp/)
   [![React_live_app](https://img.shields.io/badge/6-React_live_technical-2ea44f?style=for-the-badge&color=red)](https://reactlive-website.vercel.app/)
   [![food_gallery_app](https://img.shields.io/badge/6-React_food_gallery-2ea44f?style=for-the-badge&color=red)](https://timely-sundae-98d110.netlify.app/)
